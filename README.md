@@ -1,4 +1,12 @@
-Say it simple: I LIKE CODING, ;-))
+# Say it simple:
+
+🔬 I LIKE SCIENCE
+
+🌿 I LIKE NATURE
+
+💻 I LIKE CODING
+
+😉
 
 <!---
 kvaderlipa/kvaderlipa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
